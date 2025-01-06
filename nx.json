@@ -21,7 +21,9 @@
   },
   "defaultBase": "main",
   "release": {
-    "projects": ["packages/*"]
+    "projects": [
+      "packages/*"
+    ]
   },
   "plugins": [
     {
@@ -36,5 +38,6 @@
         }
       }
     }
-  ]
+  ],
+  "nxCloudId": "677be4972f196d703cd4667c"
 }
